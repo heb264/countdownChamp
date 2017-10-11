@@ -1,3 +1,7 @@
+This project was completed as part of the React JS and Redux - Mastering Web Apps course at Udemy.com.
+The contents below is part of the creation of the app. 
+This tutorial took me a couple of hours to complete.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
